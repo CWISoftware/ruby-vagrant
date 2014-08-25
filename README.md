@@ -1,9 +1,4 @@
-#NPCMarcoPolo
-
-##Bootstrap
-
-
-### Vagrant Module
+# Ruby Vagrant Development Box
 
 - install [vagrant](http://www.vagrantup.com) and [virtual box](http://www.virtualbox.org);
 ```
